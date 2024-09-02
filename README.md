@@ -31,3 +31,6 @@ Provide information on their purposes and applications.
 Note any distinguishing characteristics.
 Give clear, concise descriptions focusing on key details.
 This application bridges pharmacy expertise with AI capabilities, offering quick, detailed analyses of pharmaceutical tablets from images.
+
+Demo Link
+https://drive.google.com/file/d/137uAYAUQuLuQNKC7zWn6E36IHo-cWeMA/view?usp=sharing
